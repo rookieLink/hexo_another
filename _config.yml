@@ -98,6 +98,10 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
+<<<<<<< HEAD
   type: git
   repo: https://github.com/rookieLink/rookielink.github.io.git #http://rookielink.github.io
   branch: master
+=======
+  type: ''
+>>>>>>> 711c92d33bd84ecb9659b0c3148aa419353f396d
